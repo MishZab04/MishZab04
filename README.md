@@ -7,31 +7,56 @@
 
 💻 Full-Stack Developer (Frontend + Backend)  
 🇨🇲 Based in Cameroon  
-🚀 I build AI-powered, scalable web and mobile applications
+🚀 AI, Web & Mobile Application Developer  
 
 ---
 
-## 🧠 About Me
-- Full-stack developer passionate about building real-world systems  
-- Focused on **AI applications, web apps, and mobile apps**  
-- Currently building **MediVoice (AI Voice Medical Assistant System)**  
-- I enjoy turning ideas into production-ready software
+## 💫 About Me
+
+📡 Currently working on  
+MediVoice — AI-powered voice-based medical assistant system  
+
+👥 Open to collaborate on  
+AI projects, full-stack web apps, and mobile applications  
+
+🤝 Looking for help with  
+Scaling AI systems and improving backend performance  
+
+🌱 Currently learning  
+Advanced backend architecture, AI integration, and system design  
+
+💬 Ask me about  
+Full-stack development, APIs, React, Django, and TypeScript  
+
+⚡ Fun fact  
+I love turning ideas into real-world software that solves real problems 🚀  
+
+---
+
+## 🧠 About Me (Short)
+- Full-stack developer passionate about real-world systems  
+- Focused on AI, web apps, and mobile apps  
+- Builder of production-ready scalable software  
+- Turning ideas into working products  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-React.js • Next.js • TypeScript • Tailwind CSS • HTML5 • CSS3
+React • Next.js • TypeScript • Tailwind CSS • HTML5 • CSS3  
 
 ### Backend
-Django • Django REST Framework • Node.js • PostgreSQL • MySQL
+Django • Django REST Framework • Node.js • PostgreSQL • MySQL  
 
 ### Mobile
-React Native
+React Native • Flutter  
 
-### Tools & DevOps
-Git • GitHub • REST APIs • JWT Auth • Firebase
+### DevOps & Tools
+Git • GitHub • REST APIs • JWT • Firebase • Supabase • Vercel • AWS • Google Cloud  
+
+### Design & Creative
+Figma • Photoshop • Illustrator • Premiere Pro • Lightroom  
 
 ---
 
@@ -45,9 +70,9 @@ AI-powered voice-based medical assistant system
 
 ### 🚗 Car First Aid App
 Smart vehicle fault diagnosis system  
-- Detects car issues in real time  
-- Suggests possible solutions  
-- Mobile-first UI design  
+- Real-time car issue detection  
+- Suggested solutions  
+- Mobile-first interface  
 
 ---
 
@@ -62,9 +87,10 @@ Smart vehicle fault diagnosis system
 ---
 
 ## 🌐 Connect With Me
+
 - 📧 Email: mishaelzabud04@gmail.com  
 - 💻 GitHub: https://github.com/MishZab04  
-- 🔗 LinkedIn: www.linkedin.com/in/mishael-z-tanga-08b913318
+- 🔗 LinkedIn: https://www.linkedin.com/in/mishael-z-tanga-08b913318  
 
 ---
 
