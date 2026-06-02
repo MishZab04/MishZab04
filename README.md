@@ -1,4 +1,11 @@
 # 💫 About Me:
+
+# 👋 Hi, I'm Mishael
+
+💻 Full-Stack Developer (Frontend + Backend)  
+🇨🇲 Based in Cameroon  
+🚀 AI, Web & Mobile Application Developer 
+
 📡 I’m currently working on  <br>MediVoice — an AI-powered voice-based medical assistant system  <br><br>👥 I’m looking to collaborate on  <br>AI projects, full-stack web apps, and mobile applications  <br><br>🤝 I’m looking for help with  <br>Scaling AI systems and improving backend performance  <br><br>🌱 I’m currently learning  <br>Advanced backend architecture, AI integration, and system design  <br><br>💬 Ask me about  <br>Full-stack development, APIs, React, Django, and TypeScript  <br><br>⚡ Fun fact  <br>I love turning ideas into real-world software that solves real problems 🚀
 
 
